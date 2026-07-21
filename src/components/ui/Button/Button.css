@@ -1,0 +1,38 @@
+.button {
+  display: inline-flex;
+  align-items: center;
+  justify-content: center;
+
+  padding: 14px 28px;
+
+  border: none;
+  border-radius: 8px;
+
+  cursor: pointer;
+
+  font-size: 1rem;
+  font-weight: 600;
+  text-decoration: none;
+
+  transition: 0.3s ease;
+}
+
+.button.primary {
+  background: #b08d57;
+  color: #fff;
+}
+
+.button.primary:hover {
+  background: #9b7948;
+}
+
+.button.secondary {
+  background: transparent;
+  color: #b08d57;
+  border: 2px solid #b08d57;
+}
+
+.button.secondary:hover {
+  background: #b08d57;
+  color: #fff;
+}

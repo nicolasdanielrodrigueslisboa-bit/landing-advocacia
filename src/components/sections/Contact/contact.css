@@ -1,0 +1,23 @@
+.contact {
+  padding: 72px 0;
+  background: #ffffff;
+}
+
+.contact-action {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  margin: 0;
+}
+
+@media (max-width: 768px) {
+  .contact {
+    padding: 48px 0;
+  }
+}
+
+@media (max-width: 600px) {
+  .contact {
+    padding: 36px 0;
+  }
+}
