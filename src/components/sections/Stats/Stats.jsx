@@ -1,4 +1,4 @@
-import "./Stats.css";
+import "./stats.css";
 import Container from "../../ui/Container";
 import FadeInSection from "../../ui/FadeInSection";
 import { stats } from "../../../constants/stats";

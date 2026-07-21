@@ -1,6 +1,6 @@
 import { useEffect, useRef, useState } from "react";
 import { Scale } from "lucide-react";
-import "./Header.css";
+import "./header.css";
 import Container from "../../ui/Container";
 import MenuButton from "../../ui/MenuButton";
 import { navigation } from "../../../constants/navigation";

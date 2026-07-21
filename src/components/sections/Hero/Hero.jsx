@@ -1,4 +1,4 @@
-import "./Hero.css";
+import "./hero.css";
 import advogada from "../../../assets/images/advogada.jpg.jpeg";
 import { heroData } from "../../../constants/hero";
 import Button from "../../ui/Button";

@@ -1,4 +1,4 @@
-import "./Contact.css";
+import "./contact.css";
 import Container from "../../ui/Container";
 import SectionTitle from "../../ui/SectionTitle";
 import Button from "../../ui/Button";

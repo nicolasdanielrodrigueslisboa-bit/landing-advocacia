@@ -5,7 +5,7 @@ import {
   MessageCircle,
 } from "lucide-react";
 
-import "./Footer.css";
+import "./footer.css";
 
 import Container from "../../ui/Container";
 import { footer } from "../../../constants/footer";

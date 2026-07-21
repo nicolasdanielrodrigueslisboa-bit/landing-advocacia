@@ -1,4 +1,4 @@
-import "./About.css";
+import "./about.css";
 import Container from "../../ui/Container";
 import SectionTitle from "../../ui/SectionTitle";
 import FadeInSection from "../../ui/FadeInSection";
